@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Brutus GPS Alarm</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="home_fragment_label">Home</string>
+    <string name="add_place_fragment_label">Add Place</string>
+</resources>
